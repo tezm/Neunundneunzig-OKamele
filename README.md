@@ -1,94 +1,97 @@
 # Neunundneunzig-OKamele
+
 ## 99 Ocaml Problems
-This exercises are inspired by Ninety-Nine Lisp Problems which in turn was based on “Prolog problem list” by Werner Hett. For each of these questions, some simple tests are shown they may also serve to make the question clearer if needed. 
+
+This exercises are inspired by Ninety-Nine Lisp Problems which in turn was based on “Prolog problem list” by Werner Hett. For each of these questions, some simple tests are shown they may also serve to make the question clearer if needed.
 
 Exercises link: https://ocaml.org/learn/tutorials/99problems.html
-## Progress
-- [ ] 001-tail
-- [ ] 002-tail penultimate
-- [ ] 003-nth element
-- [ ] 004-length of list
-- [ ] 005-reverse list
-- [ ] 006-palindrome
-- [ ] 007-flatten list
-- [ ] 008-remove duplicates
-- [ ] 009-pack duplicates
-- [ ] 010-run length encoding
-- [ ] 011-modified run length
-- [ ] 012-run length decoding
-- [ ] 013-run decoding direct
-- [ ] 014-duplicate elements
-- [ ] 015-replicate elements
-- [ ] 016-drop elements
-- [ ] 017-split list
-- [ ] 018-extract slice
-- [ ] 019-rotate list
-- [ ] 020-remove nth element
-- [ ] 021-insert element
-- [ ] 022-create list
-- [ ] 023-extract random
-- [ ] 024-lotto
-- [ ] 025-generate permutations
-- [ ] 026-generate combinations
-- [ ] 027-group elements
-- [ ] 028-sort list
-- [ ] 031-is prime
-- [ ] 032-gcd
-- [ ] 033-is coprime
-- [ ] 034-euler totient
-- [ ] 035-prime factor
-- [ ] 036-prime factor 2
-- [ ] 037-euler totent improved
-- [ ] 038-compare totient
-- [ ] 039-list prime
-- [ ] 040-goldbach conjecture
-- [ ] 041-goldbach composition
-- [ ] 046-truth table
-- [ ] 048-truth table 2
-- [ ] 049-gray code
-- [ ] 050-huffman code
-- [ ] 055-balanced btree
-- [ ] 056-symmetric btree
-- [ ] 057-bst
-- [ ] 058-generate and test
-- [ ] 059-height balanced btree
-- [ ] 060-height balanced btree 2
-- [ ] 061A-count leaves
-- [ ] 061B-collect leaves
-- [ ] 062A-collect nodes
-- [ ] 062B-collect nodes 2
-- [ ] 063-create btree
-- [ ] 064-btree layout 1
-- [ ] 065-btree layout 2
-- [ ] 066-btree layout 3
-- [ ] 067-string of btree
-- [ ] 068-sort btree
-- [ ] 069-dotstring of btree
-- [ ] 070A-create mtree
-- [ ] 070B-count mtree nodes
-- [ ] 071-internal path
-- [ ] 072-bottom up seq
-- [ ] 073-lisp of mtree
-- [ ] 080-conversions
-- [ ] 081-node path
-- [ ] 082-node cycle
-- [ ] 083-spanning trees
-- [ ] 084-minimal splanning tree
-- [ ] 085-graph isomorphism
-- [ ] 086-node degree
-- [ ] 087-depth first traversal
-- [ ] 088-connected components
-- [ ] 089-bipartite graphs
-- [ ] 090-generate graph
-- [ ] 091-eight queens
-- [ ] 092-knights tour
-- [ ] 093-von koch
-- [ ] 094-arithmetic puzzle
-- [ ] 095-english number words
-- [ ] 096-syntax checker
-- [ ] 097-sudoku
-- [ ] 098-nonograms
-- [ ] 099-crosswords.md
 
+## Progress
+
+- [ ] 001_tail
+- [ ] 002_tail penultimate
+- [ ] 003_nth element
+- [ ] 004_length of list
+- [ ] 005_reverse list
+- [ ] 006_palindrome
+- [ ] 007_flatten list
+- [ ] 008_remove duplicates
+- [ ] 009_pack duplicates
+- [ ] 010_run length encoding
+- [ ] 011_modified run length
+- [ ] 012_run length decoding
+- [ ] 013_run decoding direct
+- [ ] 014_duplicate elements
+- [ ] 015_replicate elements
+- [ ] 016_drop elements
+- [ ] 017_split list
+- [ ] 018_extract slice
+- [ ] 019_rotate list
+- [ ] 020_remove nth element
+- [ ] 021_insert element
+- [ ] 022_create list
+- [ ] 023_extract random
+- [ ] 024_lotto
+- [ ] 025_generate permutations
+- [ ] 026_generate combinations
+- [ ] 027_group elements
+- [ ] 028_sort list
+- [ ] 031_is prime
+- [ ] 032_gcd
+- [ ] 033_is coprime
+- [ ] 034_euler totient
+- [ ] 035_prime factor
+- [ ] 036_prime factor 2
+- [ ] 037_euler totent improved
+- [ ] 038_compare totient
+- [ ] 039_list prime
+- [ ] 040_goldbach conjecture
+- [ ] 041_goldbach composition
+- [ ] 046_truth table
+- [ ] 048_truth table 2
+- [ ] 049_gray code
+- [ ] 050_huffman code
+- [ ] 055_balanced btree
+- [ ] 056_symmetric btree
+- [ ] 057_bst
+- [ ] 058_generate and test
+- [ ] 059_height balanced btree
+- [ ] 060_height balanced btree 2
+- [ ] 061A_count leaves
+- [ ] 061B_collect leaves
+- [ ] 062A_collect nodes
+- [ ] 062B_collect nodes 2
+- [ ] 063_create btree
+- [ ] 064_btree layout 1
+- [ ] 065_btree layout 2
+- [ ] 066_btree layout 3
+- [ ] 067_string of btree
+- [ ] 068_sort btree
+- [ ] 069_dotstring of btree
+- [ ] 070A_create mtree
+- [ ] 070B_count mtree nodes
+- [ ] 071_internal path
+- [ ] 072_bottom up seq
+- [ ] 073_lisp of mtree
+- [ ] 080_conversions
+- [ ] 081_node path
+- [ ] 082_node cycle
+- [ ] 083_spanning trees
+- [ ] 084_minimal splanning tree
+- [ ] 085_graph isomorphism
+- [ ] 086_node degree
+- [ ] 087_depth first traversal
+- [ ] 088_connected components
+- [ ] 089_bipartite graphs
+- [ ] 090_generate graph
+- [ ] 091_eight queens
+- [ ] 092_knights tour
+- [ ] 093_von koch
+- [ ] 094_arithmetic puzzle
+- [ ] 095_english number words
+- [ ] 096_syntax checker
+- [ ] 097_sudoku
+- [ ] 098_nonograms
+- [ ] 099_crosswords.md
 
 ## Quick Start
