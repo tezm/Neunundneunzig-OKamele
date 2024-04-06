@@ -1,2 +1,94 @@
 # Neunundneunzig-OKamele
-99 Ocaml Problems
+## 99 Ocaml Problems
+This exercises are inspired by Ninety-Nine Lisp Problems which in turn was based on “Prolog problem list” by Werner Hett. For each of these questions, some simple tests are shown they may also serve to make the question clearer if needed. 
+
+Exercises link: https://ocaml.org/learn/tutorials/99problems.html
+## Progress
+- [ ] 001-tail
+- [ ] 002-tail penultimate
+- [ ] 003-nth element
+- [ ] 004-length of list
+- [ ] 005-reverse list
+- [ ] 006-palindrome
+- [ ] 007-flatten list
+- [ ] 008-remove duplicates
+- [ ] 009-pack duplicates
+- [ ] 010-run length encoding
+- [ ] 011-modified run length
+- [ ] 012-run length decoding
+- [ ] 013-run decoding direct
+- [ ] 014-duplicate elements
+- [ ] 015-replicate elements
+- [ ] 016-drop elements
+- [ ] 017-split list
+- [ ] 018-extract slice
+- [ ] 019-rotate list
+- [ ] 020-remove nth element
+- [ ] 021-insert element
+- [ ] 022-create list
+- [ ] 023-extract random
+- [ ] 024-lotto
+- [ ] 025-generate permutations
+- [ ] 026-generate combinations
+- [ ] 027-group elements
+- [ ] 028-sort list
+- [ ] 031-is prime
+- [ ] 032-gcd
+- [ ] 033-is coprime
+- [ ] 034-euler totient
+- [ ] 035-prime factor
+- [ ] 036-prime factor 2
+- [ ] 037-euler totent improved
+- [ ] 038-compare totient
+- [ ] 039-list prime
+- [ ] 040-goldbach conjecture
+- [ ] 041-goldbach composition
+- [ ] 046-truth table
+- [ ] 048-truth table 2
+- [ ] 049-gray code
+- [ ] 050-huffman code
+- [ ] 055-balanced btree
+- [ ] 056-symmetric btree
+- [ ] 057-bst
+- [ ] 058-generate and test
+- [ ] 059-height balanced btree
+- [ ] 060-height balanced btree 2
+- [ ] 061A-count leaves
+- [ ] 061B-collect leaves
+- [ ] 062A-collect nodes
+- [ ] 062B-collect nodes 2
+- [ ] 063-create btree
+- [ ] 064-btree layout 1
+- [ ] 065-btree layout 2
+- [ ] 066-btree layout 3
+- [ ] 067-string of btree
+- [ ] 068-sort btree
+- [ ] 069-dotstring of btree
+- [ ] 070A-create mtree
+- [ ] 070B-count mtree nodes
+- [ ] 071-internal path
+- [ ] 072-bottom up seq
+- [ ] 073-lisp of mtree
+- [ ] 080-conversions
+- [ ] 081-node path
+- [ ] 082-node cycle
+- [ ] 083-spanning trees
+- [ ] 084-minimal splanning tree
+- [ ] 085-graph isomorphism
+- [ ] 086-node degree
+- [ ] 087-depth first traversal
+- [ ] 088-connected components
+- [ ] 089-bipartite graphs
+- [ ] 090-generate graph
+- [ ] 091-eight queens
+- [ ] 092-knights tour
+- [ ] 093-von koch
+- [ ] 094-arithmetic puzzle
+- [ ] 095-english number words
+- [ ] 096-syntax checker
+- [ ] 097-sudoku
+- [ ] 098-nonograms
+- [ ] 099-crosswords.md
+
+
+## Quick Start
