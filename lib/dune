@@ -1,2 +1,4 @@
 (library
- (name Neunundneunzig_OKamele))
+ (name P001_tail)
+ (modules P001_tail)
+)

@@ -1,4 +1,3 @@
 (executable
  (public_name Neunundneunzig_OKamele)
- (name main)
- (libraries Neunundneunzig_OKamele))
+ (name main))

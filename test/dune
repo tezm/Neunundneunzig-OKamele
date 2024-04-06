@@ -1,4 +1,6 @@
-(library 
- (name test_Neunundneunzig_OKamele)
+(library
+ (name test_P001_tail)
+ (libraries P001_tail)
  (inline_tests)
- (preprocess (pps ppx_expect ppx_inline_test)))
+ (preprocess
+  (pps ppx_expect ppx_assert ppx_inline_test)))
