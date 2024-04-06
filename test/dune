@@ -1,0 +1,4 @@
+(library 
+ (name test_Neunundneunzig_OKamele)
+ (inline_tests)
+ (preprocess (pps ppx_expect ppx_inline_test)))
