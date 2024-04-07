@@ -14,7 +14,7 @@ Exercises link: https://ocaml.org/learn/tutorials/99problems.html
 - [x] 004_length of list
 - [x] 005_reverse list
 - [x] 006_palindrome
-- [ ] 007_flatten list
+- [x] 007_flatten list
 - [ ] 008_remove duplicates
 - [ ] 009_pack duplicates
 - [ ] 010_run length encoding

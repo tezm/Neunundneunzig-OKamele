@@ -45,3 +45,11 @@
  (inline_tests)
  (preprocess
   (pps ppx_expect ppx_assert ppx_inline_test)))
+
+(library
+ (name test_P007_flatten_list)
+ (modules test_P007_flatten_list)
+ (libraries P007_flatten_list)
+ (inline_tests)
+ (preprocess
+  (pps ppx_expect ppx_assert ppx_inline_test)))
