@@ -13,7 +13,7 @@ Exercises link: https://ocaml.org/learn/tutorials/99problems.html
 - [x] 003_nth element
 - [x] 004_length of list
 - [x] 005_reverse list
-- [ ] 006_palindrome
+- [x] 006_palindrome
 - [ ] 007_flatten list
 - [ ] 008_remove duplicates
 - [ ] 009_pack duplicates
