@@ -9,7 +9,7 @@ Exercises link: https://ocaml.org/learn/tutorials/99problems.html
 ## Progress
 
 - [x] 001_tail
-- [ ] 002_tail penultimate
+- [x] 002_tail penultimate
 - [ ] 003_nth element
 - [ ] 004_length of list
 - [ ] 005_reverse list
