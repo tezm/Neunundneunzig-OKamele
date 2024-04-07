@@ -13,3 +13,11 @@
  (inline_tests)
  (preprocess
   (pps ppx_expect ppx_assert ppx_inline_test)))
+
+(library
+ (name test_P003_nth_element)
+ (modules test_P003_nth_element)
+ (libraries P003_nth_element)
+ (inline_tests)
+ (preprocess
+  (pps ppx_expect ppx_assert ppx_inline_test)))
