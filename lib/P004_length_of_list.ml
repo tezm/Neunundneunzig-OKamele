@@ -4,9 +4,12 @@
 *)
 
 module P004_length_of_list = struct
-  let rec length xs =
-    match xs with
-    | [] -> 0
-    | _ :: xs -> 1 + length xs
+  let length list =
+    let rec helper n l =
+      match l with
+      | [] -> n
+      | _ :: xs -> helper (n + 1) xs
+    in
+    helper 0 list
   ;;
 end
