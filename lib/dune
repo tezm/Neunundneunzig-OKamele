@@ -13,3 +13,7 @@
 (library
  (name P004_length_of_list)
  (modules P004_length_of_list))
+
+(library
+ (name P005_reverse_list)
+ (modules P005_reverse_list))

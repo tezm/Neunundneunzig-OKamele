@@ -29,3 +29,11 @@
  (inline_tests)
  (preprocess
   (pps ppx_expect ppx_assert ppx_inline_test)))
+
+(library
+ (name test_P005_reverse_list)
+ (modules test_P005_reverse_list)
+ (libraries P005_reverse_list)
+ (inline_tests)
+ (preprocess
+  (pps ppx_expect ppx_assert ppx_inline_test)))
