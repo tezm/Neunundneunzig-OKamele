@@ -53,3 +53,11 @@
  (inline_tests)
  (preprocess
   (pps ppx_expect ppx_assert ppx_inline_test)))
+
+(library
+ (name test_P008_remove_duplicates)
+ (modules test_P008_remove_duplicates)
+ (libraries P008_remove_duplicates)
+ (inline_tests)
+ (preprocess
+  (pps ppx_expect ppx_assert ppx_inline_test)))

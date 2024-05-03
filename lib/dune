@@ -25,3 +25,7 @@
 (library
  (name P007_flatten_list)
  (modules P007_flatten_list))
+
+(library
+ (name P008_remove_duplicates)
+ (modules P008_remove_duplicates))
