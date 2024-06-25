@@ -33,3 +33,7 @@
 (library
  (name P009_pack_duplicates)
  (modules P009_pack_duplicates))
+
+(library
+ (name P010_run_length_encoding)
+ (modules P010_run_length_encoding))
