@@ -29,3 +29,7 @@
 (library
  (name P008_remove_duplicates)
  (modules P008_remove_duplicates))
+
+(library
+ (name P009_pack_duplicates)
+ (modules P009_pack_duplicates))

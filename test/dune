@@ -61,3 +61,11 @@
  (inline_tests)
  (preprocess
   (pps ppx_expect ppx_assert ppx_inline_test)))
+
+(library
+ (name test_P009_pack_duplicates)
+ (modules test_P009_pack_duplicates)
+ (libraries P009_pack_duplicates)
+ (inline_tests)
+ (preprocess
+  (pps ppx_expect ppx_assert ppx_inline_test)))
